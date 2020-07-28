@@ -108,6 +108,24 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Joe",
+      "species": "lemur",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "pele",
+      "species": "caninne",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
     }
   ]
 }
